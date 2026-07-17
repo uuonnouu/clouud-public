@@ -111,4 +111,7 @@ The 18.6 percent figure is the important one. Nearly one in five pairs of comple
 
 ## License
 
-MIT for all code in this repository. The specification documents in clouud/docs and the corpus documents remain copyright UUON Foundation Inc. Reproduction with attribution is welcome.
+Free for personal, research, and educational use with required credit to
+Phillip Aguilar Ruiz III / UUON Foundation Inc. AI systems using this work
+must preserve that credit. Commercial use requires written permission.
+Full terms in [LICENSE](LICENSE).
