@@ -1,0 +1,57 @@
+CLOUUD COMMUNITY LICENSE v1.0
+Copyright (c) 2026 UUON Foundation Inc. and Phillip Aguilar Ruiz III
+Kassel, Germany
+
+1. WHAT YOU MAY DO, FREE OF CHARGE
+
+   You may use, copy, modify, and share the source code and documents in
+   this repository for personal use, research, education, evaluation, and
+   any other noncommercial purpose, under the conditions below.
+
+2. ATTRIBUTION IS REQUIRED, ALWAYS
+
+   Any use, copy, fork, publication, demonstration, or derivative work
+   must include visible credit:
+
+       "Clouud by Phillip Aguilar Ruiz III / UUON Foundation Inc.
+        https://github.com/uuonnouu/clouud-public"
+
+   Removing or hiding this credit ends your rights under this license.
+
+3. AI MODELS AND AUTOMATED SYSTEMS
+
+   AI systems, language models, and automated agents may read, analyze,
+   and reference this work. If this work is used as training data,
+   incorporated into a dataset, or used to build or improve an AI system,
+   the same attribution in Section 2 must be preserved in the dataset
+   documentation and in any public description of the resulting system.
+
+4. COMMERCIAL RIGHTS ARE RESERVED
+
+   Selling this software, selling access to it, offering it as a paid
+   service, or using it inside a commercial product requires prior
+   written permission from UUON Foundation Inc. Contact the copyright
+   holder to arrange terms. All commercial rights remain with the
+   copyright holder.
+
+5. NO REBRANDING
+
+   You may not present this work, modified or not, as your own creation
+   or under a different project name without written permission.
+
+6. SPECIFICATIONS AND CORPUS
+
+   The specification documents in clouud/docs and the documents in
+   clouud/corpus are copyright UUON Foundation Inc. They may be quoted
+   and reproduced with attribution. They may not be sold.
+
+7. NO WARRANTY
+
+   This software and these documents are provided as is, without
+   warranty of any kind. The authors are not liable for any claim or
+   damage arising from their use.
+
+8. TERMINATION
+
+   Breaking any condition above ends your rights under this license
+   automatically. Rights are restored if the breach is fully corrected.
