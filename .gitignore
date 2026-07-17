@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Secrets - never commit these
+.env
+.env.*
+*.pem
+*.key
+*token*
+*secret*
+credentials*
+
+# Local scratch
+*.log
+_tmp/
+_scratch/
+node_modules/
